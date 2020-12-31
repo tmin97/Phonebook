@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626651768953",
+    "project_id": "phonebook-59d34",
+    "storage_bucket": "phonebook-59d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626651768953:android:60781e704ee40bc5238ca8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626651768953-vhu9lteg31kle5k6r2om2sut7d5524sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj74Jg_MtPqXozIygYXo3WkUXk8RrQ5KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626651768953-vhu9lteg31kle5k6r2om2sut7d5524sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
